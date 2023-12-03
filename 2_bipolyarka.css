@@ -145,11 +145,3 @@ color: rgba(175, 98, 67, 0.95);
 
 }
 
-.palma h1 {
-    position:absolute;
-       top:50%;
-    left:50%;
-    transform:translate(-50%,-50%); 
-}
-
-
