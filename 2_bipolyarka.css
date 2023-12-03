@@ -153,20 +153,9 @@ color: rgba(175, 98, 67, 0.95);
     height:80px;
     background: rgba(51, 50, 50, 0.75)
     z-index:1000;
-    display:none
+   
 
     
 }
 
-.palma h1 a{
-    position:absolute;
-    top:50%;
-    left:50%;
-    transform:translate(-50%,-50%);
-
-}
-
-.palma:hover h1{
-    display:block;
-}
 
