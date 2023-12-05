@@ -163,3 +163,7 @@ color: rgba(175, 98, 67, 0.95);
 .collapse navbar-collapse a:active{
     color: rgba(175, 98, 67, 0.95;
 }
+
+.navbar-nav ul li.active{
+ color: rgba(175, 98, 67, 0.95);
+}
